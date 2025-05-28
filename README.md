@@ -1,6 +1,6 @@
 # <span style="color: royalblue;">Introduction to Deep Learning - Final Project</span>
 
-<span style="font-size: 18px; font-weight: bold; color: royalblue;">Classifying Images From EEG Brain Signals</span>
+<span style="font-size: 18px; font-weight: bold; color: royalblue;">Classifying Digits From EEG Brain Signals</span>
 
 <span style="font-size: 14px; font-weight: bold; color: royalblue;">Author: David Weber, 2025 Summer 1 Session</span>
 
